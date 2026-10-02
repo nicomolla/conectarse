@@ -1,3 +1,3 @@
 # conectarse
 
-[ Abrir servidor local ](afusfdoosdh.olmomazcunan.com)
+[ Abrir servidor local ](https://afusfdoosdh.olmomazcunan.com)
